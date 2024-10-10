@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -19,6 +18,7 @@ int main()
     }
 
     cout << endl;
+
     int k = 1;
     do
     {

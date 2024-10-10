@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Dev/Exercises/Pemanasan/Basics/00_Hello",
-      "program": "d:/Dev/Exercises/Pemanasan/Basics/00_Hello/build/Debug/outDebug",
+      "cwd": "d:/Dev/Exercises/Pemanasan/Basics",
+      "program": "d:/Dev/Exercises/Pemanasan/Basics/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
