@@ -9,6 +9,3 @@
 🔳 Hitung rata2 <br>
 🔳 Hitung faktorial <br>
 🔳 dll <br>
-
-
-
