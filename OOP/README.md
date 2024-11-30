@@ -1,2 +1,2 @@
 # oop
-Repo untuk berlatih algoritma pemrograman dasar.
+Repo untuk berlatih algoritma pemrograman dasar
