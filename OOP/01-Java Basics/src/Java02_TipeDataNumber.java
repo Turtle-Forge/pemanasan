@@ -1,4 +1,4 @@
-public class Java02TipeDataNumber {
+public class Java02_TipeDataNumber {
 
     public static void main(String[] args) {
         // Tipe data number
