@@ -1,4 +1,4 @@
-public class _03_KonversiTipeDataNumber {
+public class _04_KonversiTipeDataNumber {
     public static void main(String[] args) {
         // Konversi tipe data number
         // Konversi tipe data number adalah proses mengubah tipe data number ke tipe
