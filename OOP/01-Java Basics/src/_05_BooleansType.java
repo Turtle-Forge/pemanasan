@@ -1,4 +1,4 @@
-public class _04_BooleansType {
+public class _05_BooleansType {
     public static void main(String[] args) {
         // Tipe data boolean
         // Tipe data boolean adalah tipe data yang digunakan untuk menyimpan nilai
