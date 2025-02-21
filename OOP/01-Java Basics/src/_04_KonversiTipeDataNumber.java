@@ -63,6 +63,12 @@ public class _04_KonversiTipeDataNumber {
         System.out.println(numberInt2);
         System.out.println(numberShort2);
         System.out.println(numberByte2);
+
+        System.out.println("\n=======");
+        int maxScore = 500;
+        int userScore = 450;
+        float percetage = (float) userScore / maxScore * 100;
+        System.out.println("Percentage: " + percetage + "%");
     }
 
 }
