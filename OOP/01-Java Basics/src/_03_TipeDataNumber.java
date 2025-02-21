@@ -66,5 +66,12 @@ public class _03_TipeDataNumber {
         int numberInt3 = 10_000_000;
         System.out.println(numberInt3);
         System.out.println(numberInt2 + numberInt3);
+
+        System.out.println("\n====");
+        double myDouble = 3.14;
+        int myInt = (int) myDouble;
+
+        System.out.println(myDouble); // Output: 3.14
+        System.out.println(myInt); // Output: 3
     }
 }
