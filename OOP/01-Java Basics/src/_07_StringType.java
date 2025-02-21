@@ -1,4 +1,4 @@
-public class _06_StringType {
+public class _07_StringType {
     public static void main(String[] args) {
         // String
         // Tipe data string adalah tipe data yang digunakan untuk menyimpan teks.
