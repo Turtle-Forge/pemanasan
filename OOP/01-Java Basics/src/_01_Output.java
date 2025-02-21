@@ -1,4 +1,4 @@
-public class Java01_Output {
+public class _01_Output {
     public static void main(String[] args) throws Exception {
         // Java Output
         // Print text to the console with new line
