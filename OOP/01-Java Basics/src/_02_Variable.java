@@ -102,7 +102,7 @@ public class _02_Variable {
         System.out.println(number9); // Output: 200
         System.out.println(number10); // Output: 300
 
-        //
+        // Swapping variables
         int a = 10;
         int b = 20;
         System.out.println("a = " + a);
@@ -112,5 +112,6 @@ public class _02_Variable {
         b = temp;
         System.out.println("\na = " + a);
         System.out.println("b = " + b);
+
     }
 }
