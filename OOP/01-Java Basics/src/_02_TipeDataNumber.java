@@ -57,5 +57,14 @@ public class _02_TipeDataNumber {
         // 1.7e-308 sampai 1.7e+308.
         double numberDouble = 3.14;
         System.out.println(numberDouble);
+
+        // Cara lain penulisan tipe data number
+        // Tipe data number juga bisa ditulis dengan cara
+        // menggunakan underscore (_) sebagai pemisah angka.
+        int numberInt2 = 1_000_000;
+        System.out.println(numberInt2);
+        int numberInt3 = 10_000_000;
+        System.out.println(numberInt3);
+        System.out.println(numberInt2 + numberInt3);
     }
 }
