@@ -1,4 +1,4 @@
-public class _05_CharactersType {
+public class _06_CharactersType {
     public static void main(String[] args) {
         // Tipe data karakter
         // Tipe data karakter adalah tipe data yang digunakan untuk menyimpan satu
