@@ -28,6 +28,24 @@ public class _11_IfElse {
         } else {
             System.out.println("hello tidak sama dengan Hello");
         }
+
+        // ========
+        int time = 20;
+        if (time >= 00 && time < 12) {
+            System.out.println("Selamat pagi");
+        } else if (time >= 12 && time < 15) {
+            System.out.println("Selamat siang");
+        } else if (time >= 15 && time < 18) {
+            System.out.println("Selamat sore");
+        } else {
+            System.out.println("Selamat malam");
+        }
+
+        int angka = 6;
+        String isEven = (angka % 2 == 0) ? "genap" : "ganjil";
+        System.out.println(isEven);
+        System.out.println((angka % 2 == 0) ? "genap" : "ganjil");
+
         // input.close();
     }
 }
