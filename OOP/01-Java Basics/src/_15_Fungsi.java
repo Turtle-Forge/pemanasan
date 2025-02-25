@@ -15,6 +15,9 @@ public class _15_Fungsi {
         double f = myFunction(c, d);
         System.out.println(e);
         System.out.println(f);
+
+        // Fungsi tanpa return
+        sapa();
     }
 
     static int myFunction(int a, int b) {
@@ -23,5 +26,10 @@ public class _15_Fungsi {
 
     static double myFunction(double a, double b) {
         return a + b;
+    }
+
+    // Fungsi tanpa return
+    static void sapa() {
+        System.out.println("Halo!");
     }
 }
